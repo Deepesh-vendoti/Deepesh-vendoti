@@ -1,6 +1,6 @@
 - 👋 Hey.. Deep here
-- 👀 a medico interested in low / no code ... 
-- 🌱 Currently starting with JS.. late than never
+- 👀 a medico learnign to code... 
+- 🌱 Currently starting with JS & Solidity
 - 💞️ Love to connect for gigs on JS or no code to start with
 - 📫 Available on deepesh.vendoti@gmail.com
 

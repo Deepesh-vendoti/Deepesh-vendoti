@@ -1,8 +1,13 @@
-- 👋 Hey.. Deep here
-- 👀 a medico on coding journey... 
-- 🌱 Currently starting with Web development
-- 💞️ Love to connect for gigs on OpenSource projects in Healthcare / Web3
-- 📫 Reachable on deepesh.vendoti@gmail.com
+👋 Hey.. Deep here
+👀 Cooking up cool Apps for Healthy people & planet
+🌱 Comfortable in MERN & building with LLMs, Agentic frameworks
+💡 Building at the intersection of HealthTech, Open Source, and Web3
+🤝 Always game for collabs & wild ideas that could change lives
+
+💞️ Love to connect for gigs, hackathons 📫 Ping me at: deepesh.vendoti@gmail.com
+
+
+ “  Code like a dev...💻... Think like a doc...🧑‍⚕️.... Build like a founder..🚀... ”
 
 <!---
 Deepesh-vendoti/Deepesh-vendoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

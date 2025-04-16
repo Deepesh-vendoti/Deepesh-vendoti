@@ -1,7 +1,7 @@
  👋  Hey.. Deep here
  👀  Cooking up cool Apps for Healthy people & planet
  🌱  Comfortable in MERN & building with LLMs, Agents
- 💡  Building at intersection of HealthTech + Open Source + Web3
+ 💡  Building across Digital Health + Open Source + Web3
  🤝  In game for collabs & wild ideas that could change lives
 
 💞️ Love to connect for gigs, hackathons 📫 Ping me at: deepesh.vendoti@gmail.com

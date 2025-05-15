@@ -16,3 +16,11 @@
 Deepesh-vendoti/Deepesh-vendoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+MY SKILLS
+Frameworks: ReactJS, NextJS, TailwindCSS, React-Native, GraphQL, LangChain,
+Frontend Development: Javascript, Typescript
+Backend Development: Node.js, Express.js, JAVA spring(learning),  
+Database: MongoDB, MySql, PostgreSQL, Firebase,
+Service: Firebase Functions
+Other Tools: Git, Github, Trello, Plane, Clickup

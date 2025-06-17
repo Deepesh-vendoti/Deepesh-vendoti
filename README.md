@@ -5,10 +5,10 @@ You can click the Preview link to take a look at your changes.
 👋 Hey.. Deep here
 
 👀 Cooking up cool Apps for Healthy People & Planet  
-🌱 Comfortable in MERN & building with LLMs, Agents  
+🌱 Getting comfortable in MERN & building with LLMs, Agents  
 💡 Building across Digital Health + Open Source + Web3  
 🤝 Open to collabs & wild ideas that could change lives  
-📬 Connect for gigs, hackathons: [deepesh.vendoti@gmail.com](mailto:deepesh.vendoti@gmail.com)
+📬 In game for gigs, hackathons: deepesh.vendoti@gmail.com
 
 ---
 
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ReactJS, NextJS, TailwindCSS, React-Native, GraphQL, LangChain  
 
 **Frontend Development:**  
-JavaScript, TypeScript  
+JavaScript, React, TypeScript  
 
 **Backend Development:**  
 Node.js, Express.js, Java Spring (learning)  
@@ -30,7 +30,7 @@ MongoDB, MySQL, PostgreSQL, Firebase
 Firebase Functions  
 
 **Other Tools:**  
-Git, GitHub, Trello, Plane, Clickup  
+Git, GitHub  
 
 ---
 

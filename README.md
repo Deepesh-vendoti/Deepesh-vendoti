@@ -34,4 +34,4 @@ Git, GitHub
 
 ---
 
-💻 *"Code like a dev...📄 Think like a doc...👨‍⚕️ Build like a founder..🚀..."*
+💻 *"Code like a solver...📄 Think like a doc...👨‍⚕️ Build like a founder..🚀..."*

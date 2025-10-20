@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ## 🚀 My Skills  
 
 **Frameworks:**  
-ReactJS, NextJS, TailwindCSS, React-Native, GraphQL, LangChain, LangGraph  
+NextJS, ReactJS, TailwindCSS, React-Native, GraphQL, LangChain, LangGraph, AG2  
 
 **Frontend Development:**  
 JavaScript, React, TypeScript  
@@ -24,7 +24,7 @@ JavaScript, React, TypeScript
 Node.js, Express.js, Java Spring (learning)  
 
 **Database:**  
-MongoDB, MySQL, PostgreSQL, Firebase, Neo4j  
+PostgreSQL, MongoDB, MySQL, Firebase, Neo4j, Qdrant  
 
 **Service:**  
 Firebase Functions  

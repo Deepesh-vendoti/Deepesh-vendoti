@@ -24,7 +24,7 @@ JavaScript, React, TypeScript
 Node.js, Express.js, Java Spring (learning)  
 
 **Database:**  
-PostgreSQL, MongoDB, MySQL, Firebase, Neo4j, Qdrant  
+PostgreSQL, Supabase, SQLite, MySQL, MongoDB, Neo4j, Qdrant  
 
 **Service:**  
 Firebase Functions  

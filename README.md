@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 👋 Hey.. Deep here
 
 👀 Cooking up cool Apps for Healthy People & Planet  
-🌱 Getting comfortable in MERN & building with LLMs, Agents  
+🌱 Comfortable in MERN & building with LLMs, Agents  
 💡 Building across Digital Health + Open Source + Web3  
 🤝 Open to collabs & wild ideas that could change lives  
 📬 In game for gigs, hackathons: deepesh.vendoti@gmail.com
